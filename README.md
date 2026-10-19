@@ -9,7 +9,7 @@ An opinion piece and analytical breakdown on why media sensationalism and public
 ## 📖 Read the Full Article
 
 You can read the published webpage hosted via GitHub Pages here:  
-👉 **[View the Live Article](https://skaffa.github.io/ai-mirror>/)** *(replace with your actual GitHub Pages URL)*
+👉 **[View the Live Article](https://skaffa.github.io/ai-mirror/)** *(replace with your actual GitHub Pages URL)*
 
 ---
 
